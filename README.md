@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 💻 Frontend Developer at **Cognizant**
+- 💻 SharePoint intern at **Cognizant**
 - 🌱 Learning Salesforce (Apex, LWC, Ampscript), TypeScript, and Microservices
 - 🧪 Built: Emotion Recognition AI, E-commerce Site, ML Sales Predictor, Task Manager App
 - 💬 I speak JavaScript, Angular, React, TypeScript, C#, and C++
