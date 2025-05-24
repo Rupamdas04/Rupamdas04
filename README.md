@@ -19,6 +19,8 @@
 
 | Project | Description |
 |--------|-------------|
+| [🍽️ YUMMIEZ - RealTimeFoodDeliveryApplication](https://github.com/Rupamdas04/RealTimeFoodDeliveryApplication) | A real-time food delivery web app using React that fetches live restaurant data and allows restaurant registration via an admin panel |
+
 | [🛍️ EcommerceWebsite](https://github.com/Rupamdas04/EcommerceWebsite) | A complete shopping site using React and Node.js |
 | [🧠 Human Facial Emotion Recognition](https://github.com/Rupamdas04/Human-Facial-Emotion-Recognition-using-webcame) | Detect emotions in real-time with webcam using Python and ML |
 | [📈 Predictive Sales Model](https://github.com/Rupamdas04/Machine-Learning-model-for-predictive-analysis) | Sales forecasting with Linear Regression |
