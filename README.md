@@ -16,22 +16,19 @@
 ---
 
 ### 🔨 Noteworthy Projects
-
 | Project | Description |
 |--------|-------------|
 | [🍽️ YUMMIEZ - RealTimeFoodDeliveryApplication](https://github.com/Rupamdas04/RealTimeFoodDeliveryApplication) | A real-time food delivery web app using React that fetches live restaurant data and allows restaurant registration via an admin panel |
-
 | [🛍️ EcommerceWebsite](https://github.com/Rupamdas04/EcommerceWebsite) | A complete shopping site using React and Node.js |
-| [🧠 Human Facial Emotion Recognition](https://github.com/Rupamdas04/Human-Facial-Emotion-Recognition-using-webcame) | Detect emotions in real-time with webcam using Python and ML |
-| [📈 Predictive Sales Model](https://github.com/Rupamdas04/Machine-Learning-model-for-predictive-analysis) | Sales forecasting with Linear Regression |
-| [📝 My Portfolio](https://github.com/Rupamdas04/MyPortFolio) | Personal portfolio website using HTML/CSS |
-| [📺 YouTube Clone](https://github.com/Rupamdas04/YOUTUBECLONE) | Static frontend clone of YouTube |
-| [📊 Simple Quiz](https://github.com/Rupamdas04/Simple-Quiz) | A quiz game using JavaScript and PHP |
-| [🎮 Color Guessing Game](https://github.com/Rupamdas04/ColorGuessingGame) | Fun RGB color guessing game |
-| [📱 Calculator App](https://github.com/Rupamdas04/MY_CALCULATOR) | Fully responsive calculator UI in JS |
-| [🍴 Restaurant Webpage](https://github.com/Rupamdas04/Restaurant-Front-End-Webpage-layout-main) | Frontend UI using HTML/CSS for a restaurant |
-| [📦 Amazon Clone](https://github.com/Rupamdas04/Amazon-Clone) | Amazon.com homepage frontend |
-
+| [🧠 Human Facial Emotion Recognition](https://github.com/Rupamdas04/Human-Facial-Emotion-Recognition-using-webcame) | Detect emotions in real-time using webcam and machine learning with Python |
+| [📈 Predictive Sales Model](https://github.com/Rupamdas04/Machine-Learning-model-for-predictive-analysis) | Sales forecasting model built using linear regression and machine learning concepts |
+| [📝 My Portfolio](https://github.com/Rupamdas04/MyPortFolio) | Personal portfolio website to showcase skills and projects using HTML, CSS, and JavaScript |
+| [📺 YouTube Clone](https://github.com/Rupamdas04/YOUTUBECLONE) | Static frontend clone of YouTube using HTML/CSS |
+| [📊 Simple Quiz](https://github.com/Rupamdas04/Simple-Quiz) | An interactive quiz application using JavaScript, HTML, and PHP |
+| [🎮 Color Guessing Game](https://github.com/Rupamdas04/ColorGuessingGame) | Fun and interactive RGB color guessing game built with JavaScript |
+| [📱 Calculator App](https://github.com/Rupamdas04/MY_CALCULATOR) | A fully responsive calculator UI built using JavaScript and HTML/CSS |
+| [🍴 Restaurant Webpage](https://github.com/Rupamdas04/Restaurant-Front-End-Webpage-layout-main) | A responsive restaurant landing page using pure HTML and CSS |
+| [📦 Amazon Clone](https://github.com/Rupamdas04/Amazon-Clone) | Static frontend clone of Amazon.com homepage using HTML and CSS |
 
 ---
 
