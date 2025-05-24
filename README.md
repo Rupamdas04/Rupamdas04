@@ -10,55 +10,50 @@
 
 - 💻 Frontend Developer at **Cognizant**
 - 🌱 Learning Salesforce (Apex, LWC, Ampscript), TypeScript, and Microservices
-- 🧪 Built: Emotion Recognition AI, E-commerce Site, Task Manager App
-- 💬 I speak JavaScript, Angular, React, TypeScript, C#, and a bit of Python
-- 📊 Completed internships in **DataStage** and **Data Visualization**
-- 📚 Preparing for **GATE**, **CDS**, and **FANG** opportunities
+- 🧪 Built: Emotion Recognition AI, E-commerce Site, ML Sales Predictor, Task Manager App
+- 💬 I speak JavaScript, Angular, React, TypeScript, C#, and C++
 
 ---
 
-### 💼 Tech Stack
+### 🔨 Noteworthy Projects
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,php,mysql,nodejs,py,figma,git,github,aws,gcp,azure" />
+| Project | Description |
+|--------|-------------|
+| [🛍️ EcommerceWebsite](https://github.com/Rupamdas04/EcommerceWebsite) | A complete shopping site using React and Node.js |
+| [🧠 Human Facial Emotion Recognition](https://github.com/Rupamdas04/Human-Facial-Emotion-Recognition-using-webcame) | Detect emotions in real-time with webcam using Python and ML |
+| [📈 Predictive Sales Model](https://github.com/Rupamdas04/Machine-Learning-model-for-predictive-analysis) | Sales forecasting with Linear Regression |
+| [📝 My Portfolio](https://github.com/Rupamdas04/MyPortFolio) | Personal portfolio website using HTML/CSS |
+| [📺 YouTube Clone](https://github.com/Rupamdas04/YOUTUBECLONE) | Static frontend clone of YouTube |
+| [📊 Simple Quiz](https://github.com/Rupamdas04/Simple-Quiz) | A quiz game using JavaScript and PHP |
+| [🎮 Color Guessing Game](https://github.com/Rupamdas04/ColorGuessingGame) | Fun RGB color guessing game |
+| [📱 Calculator App](https://github.com/Rupamdas04/MY_CALCULATOR) | Fully responsive calculator UI in JS |
+| [🍴 Restaurant Webpage](https://github.com/Rupamdas04/Restaurant-Front-End-Webpage-layout-main) | Frontend UI using HTML/CSS for a restaurant |
+| [📦 Amazon Clone](https://github.com/Rupamdas04/Amazon-Clone) | Amazon.com homepage frontend |
+
 
 ---
 
-### 🛠️ Projects Showcase
+### 💻 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/82999542/232244155-d3c51d93-9d61-4f35-90f8-7b1e7b231fbb.gif" width="100%" />
-      <br /><b>Emotion Recognition AI</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/82999542/232244174-5a122de4-1e58-4094-973a-0ba3f0276579.gif" width="100%" />
-      <br /><b>Task Management App</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/82999542/232244208-4fcfeea4-7c8b-45e1-b344-3ef69eae89b7.gif" width="100%" />
-      <br /><b>E-Commerce Website</b>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,ts,php,mysql,nodejs,py,c,cpp,figma,git,github,aws,gcp,azure" />
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupamdas04&show_icons=true&theme=react&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupamdas04&layout=compact&theme=react&hide_border=true" height="160"/>
 </p>
 
 ---
 
-### 🌍 Let's Connect!
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rupam-das-007/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/Rupam2003/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" /></a>
+  <a href="https://orcid.org/0009-0006-0114-2475"><img src="https://img.shields.io/badge/ORCID-green?logo=orcid&style=for-the-badge" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43E97B,100:38F9D7&height=120&section=footer" />
