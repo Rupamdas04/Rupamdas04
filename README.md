@@ -50,7 +50,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rupam-das-007/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/r-das/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://leetcode.com/u/Rupam2003/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" /></a>
   <a href="https://orcid.org/0009-0006-0114-2475"><img src="https://img.shields.io/badge/ORCID-green?logo=orcid&style=for-the-badge" /></a>
 </p>
